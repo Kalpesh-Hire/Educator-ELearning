@@ -37,7 +37,7 @@ const CoursesList = () => {
                 onClick={() => navigate("/")}
                 className="text-blue-600 cursor-pointer"
               >
-                Home Page
+                Home
               </span>
               / Course List
             </p>
